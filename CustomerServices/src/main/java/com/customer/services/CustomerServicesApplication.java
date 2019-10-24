@@ -38,7 +38,7 @@ public class CustomerServicesApplication {
 	 @Autowired
 	 CustomerRepository customerRepository;
 	 
-	 /* added new comment*/
+	 /* added new comment new comments*/
 	public static void main(String[] args) {
 		SpringApplication.run(CustomerServicesApplication.class, args);
 	     System.out.println("added new line for commit added");
