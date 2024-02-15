@@ -1,0 +1,8 @@
+server:
+  servlet:
+    context-path: /springboot-sample-app
+  port: 8082
+
+    
+#http://localhost:8082/springboot-sample-app/swagger-ui/index.html
+#/springboot-sample-app/v3/api-docs
